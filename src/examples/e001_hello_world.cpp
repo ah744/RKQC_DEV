@@ -28,6 +28,8 @@ using namespace revkit;
 int main( int argc, char ** argv )
 {
 
+    set_LLVM(true);
+
     qbit a;
     qbit b;
     qbit c;

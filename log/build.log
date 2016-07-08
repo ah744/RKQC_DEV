@@ -1,11 +1,8 @@
-Fri Jul  8 13:27:33 PDT 2016 /home/adam/Desktop/Development/Scaffold_GenRKQC/rkqc/scripts/build param: -DBUILD_UNSTABLE=ON -DBUILD_EXAMPLES=ON -DBUILD_BINDINGS=OFF
+Fri Jul  8 16:35:59 PDT 2016 /home/adam/Desktop/Development/RKQC/scripts/build param: -DBUILD_UNSTABLE=ON -DBUILD_EXAMPLES=ON -DBUILD_BINDINGS=OFF
 -DBUILD_BINDINGS=OFF -DBUILD_UNSTABLE=ON -DBUILD_EXAMPLES=ON
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/adam/Desktop/Development/Scaffold_GenRKQC/rkqc/build
+-- Build files have been written to: /home/adam/Desktop/Development/RKQC/build
 [  2%] Built target revkit_unstable
 [ 97%] Built target revkit_core
-Scanning dependencies of target e001_hello_world
-[100%] Building CXX object examples/CMakeFiles/e001_hello_world.dir/e001_hello_world.cpp.o
-Linking CXX executable e001_hello_world
 [100%] Built target e001_hello_world
